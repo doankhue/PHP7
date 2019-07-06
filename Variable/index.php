@@ -23,5 +23,5 @@
 	transformArr();
 	transformArr();
 	transformArr();
-
+	var_dump((float)'1.23');
 ?>
