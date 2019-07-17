@@ -25,3 +25,7 @@ try {
  catch (Exception $e) {
 	echo 'Message: ' . $e->getMessage();
 }
+
+function checkError($error){
+	var_dump($error);
+}
